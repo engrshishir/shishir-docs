@@ -48,12 +48,6 @@
       "role": "owner",
       "max_files": 1000,
       "max_folders": 500
-    },
-    {
-      "user": "roxnorshishir@gmail.com",
-      "role": "editor",
-      "max_files": 100,
-      "max_folders": 50
     }
   ]
 }
