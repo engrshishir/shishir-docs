@@ -1,0 +1,59 @@
+{
+  "description": "RoxNoteBook Whitelist, Public Data & Permissions Configuration",
+  "public_repo": {
+    "owner": "engrshishir",
+    "repo": "shishir-docs",
+    "branch": "main",
+    "default_access": "read",
+    "folder_permissions": [
+      {
+        "path": "dev-docs",
+        "allowed_users": [
+          "shishir.cse.pstu@gmail.com",
+          "roxnorshishir@gmail.com"
+        ],
+        "access": "read-write"
+      },
+      {
+        "path": "docs",
+        "allowed_users": [
+          "shishir.cse.pstu@gmail.com",
+          "roxnorshishir@gmail.com"
+        ],
+        "access": "read-write"
+      },
+      {
+        "path": "admin",
+        "allowed_users": [
+          "shishir.cse.pstu@gmail.com"
+        ],
+        "access": "restricted"
+      },
+      {
+        "path": "*",
+        "allowed_users": [
+          "*"
+        ],
+        "access": "read"
+      }
+    ]
+  },
+  "default_limits": {
+    "max_files": 100,
+    "max_folders": 50
+  },
+  "whitelist": [
+    {
+      "user": "shishir.cse.pstu@gmail.com",
+      "role": "owner",
+      "max_files": 1000,
+      "max_folders": 500
+    },
+    {
+      "user": "roxnorshishir@gmail.com",
+      "role": "editor",
+      "max_files": 100,
+      "max_folders": 50
+    }
+  ]
+}
