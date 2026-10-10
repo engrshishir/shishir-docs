@@ -39,8 +39,8 @@
     ]
   },
   "default_limits": {
-    "max_files": 100,
-    "max_folders": 50
+    "max_files": 2,
+    "max_folders": 1
   },
   "whitelist": [
     {
