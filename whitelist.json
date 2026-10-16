@@ -10,7 +10,8 @@
         "path": "dev-docs",
         "allowed_users": [
           "shishir.cse.pstu@gmail.com",
-          "roxnorshishir@gmail.com"
+          "roxnorshishir@gmail.com",
+          "shishirbhuiyan83@gmail.com"
         ],
         "access": "read-write"
       },
@@ -18,7 +19,8 @@
         "path": "docs",
         "allowed_users": [
           "shishir.cse.pstu@gmail.com",
-          "roxnorshishir@gmail.com"
+          "roxnorshishir@gmail.com",
+          "shishirbhuiyan83@gmail.com"
         ],
         "access": "read-write"
       },
@@ -48,6 +50,12 @@
       "role": "owner",
       "max_files": 1000,
       "max_folders": 500
+    },
+    {
+      "user": "shishirbhuiyan83@gmail.com",
+      "role": "editor",
+      "max_files": 20000,
+      "max_folders": 300
     }
   ]
 }
