@@ -41,7 +41,9 @@
   "whitelist": [
     {
       "user": "shishir.cse.pstu@gmail.com",
-      "role": "owner"
+      "name": "Shishir",
+      "role": "owner",
+      "status": "active"
     }
   ]
 }
