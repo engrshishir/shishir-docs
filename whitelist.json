@@ -44,19 +44,6 @@
       "name": "Shishir",
       "role": "owner",
       "status": "active"
-    },
-    {
-      "user": "shishirbhuiyan83@gmail.com",
-      "name": "Shishir Bhuiya",
-      "profession": "sfs",
-      "institution": "sfdsd",
-      "mobile": "+8801925696314",
-      "additional_info": "",
-      "ip": "127.0.0.1",
-      "status": "active",
-      "role": "member",
-      "requested_at": "2026-10-16T19:11:58.962Z",
-      "updated_at": "2026-10-16T19:34:26.896Z"
     }
   ]
 }
