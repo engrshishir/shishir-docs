@@ -10,8 +10,7 @@
         "path": "dev-docs",
         "allowed_users": [
           "shishir.cse.pstu@gmail.com",
-          "roxnorshishir@gmail.com",
-          "shishirbhuiyan83@gmail.com"
+          "roxnorshishir@gmail.com"
         ],
         "access": "read-write"
       },
@@ -19,8 +18,7 @@
         "path": "docs",
         "allowed_users": [
           "shishir.cse.pstu@gmail.com",
-          "roxnorshishir@gmail.com",
-          "shishirbhuiyan83@gmail.com"
+          "roxnorshishir@gmail.com"
         ],
         "access": "read-write"
       },
@@ -44,10 +42,6 @@
     {
       "user": "shishir.cse.pstu@gmail.com",
       "role": "owner"
-    },
-    {
-      "user": "shishirbhuiyan83@gmail.com",
-      "role": "editor"
     }
   ]
 }
