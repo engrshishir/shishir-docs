@@ -40,22 +40,14 @@
       }
     ]
   },
-  "default_limits": {
-    "max_files": 2,
-    "max_folders": 1
-  },
   "whitelist": [
     {
       "user": "shishir.cse.pstu@gmail.com",
-      "role": "owner",
-      "max_files": 1000,
-      "max_folders": 500
+      "role": "owner"
     },
     {
       "user": "shishirbhuiyan83@gmail.com",
-      "role": "editor",
-      "max_files": 2000,
-      "max_folders": 500
+      "role": "editor"
     }
   ]
 }
